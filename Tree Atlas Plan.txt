@@ -34,7 +34,7 @@ tree, leaf, bark, display, germ, note1, note2 // for example
 // add a new name, or change the order of the names.
 // Atlas-Builder will henceforth build your atlas to correspond.
 
-// The following lists tell the Atlas Builder the 
+// The following lists tell the Atlas Builder the subtitle and
 // captions that decorate each cell of your atlas.
 // There's a list for each column, named for that column.
 // The first list item is an optional subtitle 
@@ -43,6 +43,9 @@ tree, leaf, bark, display, germ, note1, note2 // for example
 // that cell's media, if you want it to have one. 
 
 // These lists do not have to be in any particular order.
+// You can change the above Column and Row lists
+// and you don't have to change these to correspond.
+
 // Note: nothing in these lists tells Builder what media
 // occupies each cell of your atlas; that comes later.
 
@@ -103,7 +106,8 @@ note1: n/a
 
 Huizache:
 subtitle: Vachellia pennatula
-tree:  Huizache -- aka Fern-Leaf Acacia -- is a thorny, small tree or shrub, with a spreading crown, growing 3-10 meters tall.
+tree:  Huizache -- aka Fern-Leaf Acacia -- is a thorny, small tree or shrub, 
+with a spreading crown, growing 3-10 meters tall.
 leaf: bipinnate, fern-like, finely divided leaves.
 bark: n/a
 display: Small, yellow, spherical clusters (puffballs) appearing in the dry season.
@@ -112,17 +116,30 @@ note1: n/a
 
 Maguey:
 subtitle: Agave inaequidens
-tree: Maguey is a very large form of agave found in the oak forest zone at 1800–2500 m on the skyridge. It has a large, open rosette with long, lanceolate green leaves. Prominent marginal teeth and a strong terminal spine.
-leaf: Maguey is a very large form of agave found in the oak forest zone at 1800–2500 m on the skyridge. It has a large, open rosette with long, lanceolate green leaves. Prominent marginal teeth and a strong terminal spine.
+tree: Maguey is a very large form of agave found in the oak forest zone at 1800–2500 m on the skyridge. 
+
+leaf: A large, open rosette with long, lanceolate green leaves,
+prominent marginal teeth and a strong terminal spine.
 bark: n/a
-display: When they flower at the end of their life cycle, they sprout a tall, robust paniculate inflorescence with many rounded, umbel-like flower clusters. The yellow flowers have long stamens and a thick green to reddish peduncle.The flowering structure is widely spaced and tree-like.
+display: When they flower at the end of their life cycle, they sprout a tall, 
+robust paniculate inflorescence with many rounded, umbel-like flower clusters. 
+The yellow flowers have long stamens and a thick green to reddish peduncle.
+The flowering structure is widely spaced and tree-like.
 germ: turning yellow to red
 note1: n/a
 
 Pistacia Mexicana:
 subtitle: pistacho silvestre
-tree: Mexican pistache is characterized by their glossy green pinnate leaves. A medium to large tree (5-15m.) Widely dispersed on the hillsides, with many on the lower slopes of the Tempisque Horse trail. Unfortunately they do not produce edible pistachos.
-leaf: compound pinnate leaf, with 7–15 opposite leaflets, elliptic–oblong. Slightly leathery, glossy green. Rachis reddish to tan. Often growing fan-like from the branch tips. The leaves stay on the trees well into the dry season, providing welcome shade in hot weather. The crushed leaves have a resinous smell.
+tree: Mexican pistache is characterized by their glossy green pinnate leaves. 
+A medium to large tree (5-15m.) Widely dispersed on the hillsides, 
+with many on the lower slopes of the Tempisque Horse trail. 
+Unfortunately they do not produce edible pistachos.
+leaf: compound pinnate leaf, with 7–15 opposite leaflets, elliptic–oblong. 
+Slightly leathery, glossy green. Rachis reddish to tan. 
+Often growing fan-like from the branch tips. 
+The leaves stay on the trees well into the dry season, 
+providing welcome shade in hot weather. 
+The crushed leaves have a resinous smell.
 bark: Dark gray to brown
 display: Cream white flowers become small red to black drupes (pea-sized) on female trees. 
 germ: n/a
@@ -139,10 +156,16 @@ note1: n/a
 
 Nolina:
 subtitle: Nolina longifolia
-tree: Nolina -- aka Bear grass -- is an unusual tree-like plant 3 - 5m tall,  found in the oak forest zone on or near the skyridge at 2000+m. It has a clear trunk, dark fissured bark, with a dense “skirt” of long, narrow, flexible green leaves mixed with brown dead leaves, that form a large terminal rosette.
+tree: Nolina -- aka Bear grass -- is an unusual tree-like plant 3 - 5m tall,  
+found in the oak forest zone on or near the skyridge at 2000+m. 
+It has a clear trunk, dark fissured bark, with a dense “skirt” of long, narrow, 
+flexible green leaves mixed with brown dead leaves, 
+that form a large terminal rosette.
 leaf: n/a
 bark: n/a
-display: When they are in bloom they have tall, light brown, narrow inflorescences rising well above the crown. It's not a tree, but an asparagus!
+display: When they are in bloom they have tall, light brown, 
+narrow inflorescences rising well above the crown. 
+It's not a tree, but an asparagus!
 germ: n/a
 note1: n/a
 
